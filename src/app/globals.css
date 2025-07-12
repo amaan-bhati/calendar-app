@@ -1,4 +1,7 @@
 @import "tailwindcss";
+@import '@fullcalendar/common/main.css';
+@import '@fullcalendar/daygrid/main.css';
+
 
 @custom-variant dark (&:is(.dark *));
 
